@@ -7,12 +7,12 @@ color:
     - '#78B8C8'
     - '#B0D0E0'
   brandStrength: 1
-  lightness: 0.497748
+  lightness: 1
   rhythmicContrast: 0.488739
-  saturation: 0.997748
+  saturation: 0
 cta: {}
 layout_spectrum: 0.754505
 name: steverosenMUSIC
 opengraph: {}
 purpose: []
-typography_spectrum: 0.61038
+typography_spectrum: 0
